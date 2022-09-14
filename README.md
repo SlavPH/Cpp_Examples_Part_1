@@ -2,7 +2,7 @@
 10 simple mini projects with c++ (Part 1)
 
 # How to compile
-Use **c++** or **g++** and use **-o** to set custom output file name:
+Use **c++** or **g++** and use **-o** to name output file:
 ``` bash
 c++ example.cpp -o output && ./output
 ```
