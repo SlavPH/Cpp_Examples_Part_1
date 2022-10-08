@@ -7,10 +7,4 @@ Use **c++** or **g++** and use **-o** to name output file:
 c++ example.cpp -o output && ./output
 ```
 
-# Social Media
-[Instagram](https://instagram.com/theslavph)                                                
-[Telegram](https://telegram.me/theslavph)
-
-
-
 > Thanks 
